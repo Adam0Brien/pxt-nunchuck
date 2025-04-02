@@ -1,0 +1,20 @@
+{
+    "name": "nunchuk",
+    "version": "0.0.1",
+    "description": "MakeCode library for Nunchuk controller using I2C",
+    "license": "MIT",
+    "dependencies": {},
+    "files": [
+        "main.ts"
+    ],
+    "supportedTargets": [
+        "microbit"
+    ],
+    "icon": "icon.png",
+    "keywords": [
+        "nunchuk",
+        "controller",
+        "joystick",
+        "i2c"
+    ]
+}
